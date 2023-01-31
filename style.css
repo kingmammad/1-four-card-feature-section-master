@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    height: 922px;
+    max-width: 1440px;
+    font-size: 12px;
+}
+
+.menu {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+    width: auto;
+    height: 200px;
+
+
+
+
+}
+
+.text-menu {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.text-1 {
+    font-weight: 200;
+    color: #5f5c5d;
+
+}
+
+.text-2 {
+    font-weight: 600;
+    margin-bottom: 18px;
+    color: #443f40;
+    font-size: 28px;
+}
+
+.pra {
+    font-weight: 200;
+    text-align: center;
+    color: #6d5e63;
+
+}
+
+/* .table {
+    
+    display: flex;
+
+    margin-top: 24px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+} */
+
+.table {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    margin-top: 46px;
+}
+
+
+/* .center {
+    display: flex;
+    justify-content: center;
+    gap: 280px;
+    align-items: center;
+    margin-bottom: 100px;
+    
+} */
+
+.rec {
+    height: 180px;
+    width: 260px;
+    border-top: 4px solid green;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px 24px;
+    font-family: sans-serif;
+    box-shadow: 0px 0px 8px #00000033;
+    font-family: sans-serif;
+
+}
+
+.super {
+    color: #443f40;
+    font-size: 16px;
+
+
+}
+
+.sup {
+    color: #6d5e63;
+    font-size: 12px;
+}
+
+.rec-1 {
+    background-color: #ffffff;
+    border-top: 4px solid #f70067c2;
+
+
+}
+
+.reg-c {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+
+}
+
+.rec-2 {
+    background-color: #ffffff;
+    border-top: 4px solid #ffee00;
+
+}
+
+.rec-3 {
+    background-color: #ffffff;
+    border-top: 4px solid #0099ff;
+
+}
+
+.rec-4 {
+
+    background-color: #ffffff;
+    border-top: 4px solid #ff0281c2;
+
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.imag {
+    margin-top: 40px;
+    margin-left: 190px;
+
+}
